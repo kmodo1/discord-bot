@@ -1,0 +1,19 @@
+{
+  "name": "[bot name]",
+  "version": "1.0.0",
+  "description": "a bot made for [server owner's name]s discord server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "mersenne-twister": "^1.1.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.5.0",
+    "redis": "^3.0.2"
+  }
+}
